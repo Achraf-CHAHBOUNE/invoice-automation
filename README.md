@@ -31,4 +31,4 @@ authentication, cloud deployment, and monitoring.
 
 Open to consulting on document automation, LLM data extraction, and data pipelines.
 
-📫 achrafchahbon5@gmail.com
+💼 [Connect on LinkedIn](https://www.linkedin.com/in/achraf-chahboune/)
